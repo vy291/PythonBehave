@@ -15,6 +15,7 @@ Automation codebase.
    - **run** (for running full test cases)
    - **run @tagName** (for running full test suites with tag name)
    - **run featureName** (for running 1 feature)
+7. Check output folder for test result and screenShot folder for debugging
  
 
 
